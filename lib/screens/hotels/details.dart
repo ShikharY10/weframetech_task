@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:weframetech_task/utility/widgets/extra_info.dart';
 import '../../utility/widgets/circular_container.dart';
 
+
+/// This widget contains Hotel information including hotels images, name, price of the room, facilities, and book now button.
 class HotelDetails extends StatefulWidget {
   const HotelDetails({super.key});
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/// This widget is for showing micro information related to hotels.
 class ExtraInfo extends StatelessWidget {
   final String asset;
   final String text;
